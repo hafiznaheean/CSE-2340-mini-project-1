@@ -77,6 +77,10 @@ h2 {
     padding: 25px;
     border-radius: 10px;
 }
+#contact p {
+    text-align: center;
+    /* margin-bottom: 30px; */
+}
 form {
     max-width: 600px;
     margin: auto;
